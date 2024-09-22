@@ -9,3 +9,9 @@
     display: inline-block;
     padding-bottom: 8px;
 }
+
+.time .colaboradores {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 32px;
+}
