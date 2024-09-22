@@ -8,7 +8,6 @@ const CampoTexto = (props) => {
 
     // const aoDigitao = (evento) => {
     //     setValor(evento.target.value);
-    //     console.log(valor);
     // }
 
     const aoDigitao = (evento) => {
